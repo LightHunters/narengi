@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "name": "Sam Café",
+    "address": "Fereshteh St, Tehran",
+    "lat": 35.7934,
+    "lng": 51.4231,
+    "rating": 4.5,
+    "place_id": "seed_1"
+  },
+  {
+    "id": "2",
+    "name": "Lamiz Coffee",
+    "address": "Valiasr St, Tehran",
+    "lat": 35.7621,
+    "lng": 51.4123,
+    "rating": 4.4,
+    "place_id": "seed_2"
+  },
+  {
+    "id": "3",
+    "name": "Roberto Cafe",
+    "address": "Pasdaran, Tehran",
+    "lat": 35.7712,
+    "lng": 51.4678,
+    "rating": 4.6,
+    "place_id": "seed_3"
+  },
+  {
+    "id": "4",
+    "name": "Cafe Shemroon",
+    "address": "Iranian Art Garden, Tehran",
+    "lat": 35.7989,
+    "lng": 51.4312,
+    "rating": 4.3,
+    "place_id": "seed_4"
+  },
+  {
+    "id": "5",
+    "name": "Vikolo Cafe",
+    "address": "Modern Elahiyeh, Tehran",
+    "lat": 35.7915,
+    "lng": 51.4256,
+    "rating": 4.7,
+    "place_id": "seed_5"
+  },
+  {
+    "id": "6",
+    "name": "Cafe Naderi",
+    "address": "Jomhouri St, Tehran",
+    "lat": 35.6944,
+    "lng": 51.4128,
+    "rating": 4.2,
+    "place_id": "seed_6"
+  },
+  {
+    "id": "7",
+    "name": "Tehroon Cafe",
+    "address": "Villa St, Tehran",
+    "lat": 35.7123,
+    "lng": 51.4211,
+    "rating": 4.5,
+    "place_id": "seed_7"
+  },
+  {
+    "id": "8",
+    "name": "Cafe Godot",
+    "address": "Enghelab St, Tehran",
+    "lat": 35.7001,
+    "lng": 51.4056,
+    "rating": 4.4,
+    "place_id": "seed_8"
+  },
+  {
+    "id": "9",
+    "name": "Raees Coffee",
+    "address": "Saadat Abad, Tehran",
+    "lat": 35.7812,
+    "lng": 51.3712,
+    "rating": 4.3,
+    "place_id": "seed_9"
+  },
+  {
+    "id": "10",
+    "name": "Cafe Cinema",
+    "address": "Bagh-e Ferdows, Tehran",
+    "lat": 35.8023,
+    "lng": 51.4245,
+    "rating": 4.6,
+    "place_id": "seed_10"
+  },
+  {
+    "id": "11",
+    "name": "Chai Bar",
+    "address": "Andarzgou Blvd, Tehran",
+    "lat": 35.7956,
+    "lng": 51.4467,
+    "rating": 4.5,
+    "place_id": "seed_11"
+  },
+  {
+    "id": "12",
+    "name": "Cafe Mahtab",
+    "address": "Shahrak Gharb, Tehran",
+    "lat": 35.7534,
+    "lng": 51.3656,
+    "rating": 4.2,
+    "place_id": "seed_12"
+  },
+  {
+    "id": "13",
+    "name": "Cafe 78",
+    "address": "Karimkhan St, Tehran",
+    "lat": 35.7145,
+    "lng": 51.4178,
+    "rating": 4.4,
+    "place_id": "seed_13"
+  },
+  {
+    "id": "14",
+    "name": "Cafe Graph",
+    "address": "Vanak, Tehran",
+    "lat": 35.7578,
+    "lng": 51.4012,
+    "rating": 4.1,
+    "place_id": "seed_14"
+  },
+  {
+    "id": "15",
+    "name": "Cafe Prague",
+    "address": "Kordestan Hwy, Tehran",
+    "lat": 35.7412,
+    "lng": 51.3912,
+    "rating": 4.3,
+    "place_id": "seed_15"
+  },
+  {
+    "id": "16",
+    "name": "Cafe Ivan",
+    "address": "Lalehzar St, Tehran",
+    "lat": 35.6890,
+    "lng": 51.4256,
+    "rating": 4.5,
+    "place_id": "seed_16"
+  },
+  {
+    "id": "17",
+    "name": "Cafe Masoudieh",
+    "address": "Baharestan, Tehran",
+    "lat": 35.6880,
+    "lng": 51.4334,
+    "rating": 4.7,
+    "place_id": "seed_17"
+  },
+  {
+    "id": "18",
+    "name": "Cafe Diamond",
+    "address": "Nejatollahi St, Tehran",
+    "lat": 35.7056,
+    "lng": 51.4189,
+    "rating": 4.4,
+    "place_id": "seed_18"
+  },
+  {
+    "id": "19",
+    "name": "Cafe Sepid",
+    "address": "Enghelab Sq, Tehran",
+    "lat": 35.7008,
+    "lng": 51.3915,
+    "rating": 4.0,
+    "place_id": "seed_19"
+  },
+  {
+    "id": "20",
+    "name": "Cafe Famm",
+    "address": "Doulat St, Tehran",
+    "lat": 35.7767,
+    "lng": 51.4512,
+    "rating": 4.3,
+    "place_id": "seed_20"
+  }
+]
